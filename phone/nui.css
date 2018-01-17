@@ -1,0 +1,277 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 772px;
+	 height: 1472px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Phone 
+{ 
+	 left: 24px; 
+	 top: 13px; 
+	 position: absolute; 
+	 width: 720px;
+	 height: 1441px;
+	 z-index:1;
+} 
+
+ #PhoneBackground 
+{ 
+	 left: 56px; 
+	 top: 56px; 
+	 position: absolute; 
+	 width: 641px;
+	 height: 1354px;
+	 z-index:2;
+} 
+
+ #TwitterApp 
+{ 
+	 left: 115px; 
+	 top: 175px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 128px;
+	 z-index:3;
+} 
+
+ #ContactsApp 
+{ 
+	 left: 263px; 
+	 top: 176px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 128px;
+	 z-index:4;
+} 
+
+ #EmergencyServicesApp 
+{ 
+	 left: 406px; 
+	 top: 175px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 129px;
+	 z-index:5;
+} 
+
+ #TowApp 
+{ 
+	 left: 551px; 
+	 top: 175px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 128px;
+	 z-index:6;
+} 
+
+ #UberApp 
+{ 
+	 left: 115px; 
+	 top: 346px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 129px;
+	 z-index:7;
+} 
+
+ #Unkown1 
+{ 
+	 left: 262px; 
+	 top: 346px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 129px;
+	 z-index:8;
+} 
+
+ #Unkown2 
+{ 
+	 left: 406px; 
+	 top: 346px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 129px;
+	 z-index:9;
+} 
+
+ #Unkown3 
+{ 
+	 left: 551px; 
+	 top: 346px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 129px;
+	 z-index:10;
+} 
+
+ #Unkown4 
+{ 
+	 left: 115px; 
+	 top: 516px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 129px;
+	 z-index:11;
+} 
+
+ #Unkown5 
+{ 
+	 left: 263px; 
+	 top: 516px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 129px;
+	 z-index:12;
+} 
+
+ #Unkown6 
+{ 
+	 left: 406px; 
+	 top: 516px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 129px;
+	 z-index:13;
+} 
+
+ #Unkown7 
+{ 
+	 left: 551px; 
+	 top: 516px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 129px;
+	 z-index:14;
+} 
+
+ #Unkown8 
+{ 
+	 left: 115px; 
+	 top: 686px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 129px;
+	 z-index:15;
+} 
+
+ #Unkown9 
+{ 
+	 left: 263px; 
+	 top: 686px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 129px;
+	 z-index:16;
+} 
+
+ #Unkown10 
+{ 
+	 left: 406px; 
+	 top: 686px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 129px;
+	 z-index:17;
+} 
+
+ #Unkown11 
+{ 
+	 left: 551px; 
+	 top: 686px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 129px;
+	 z-index:18;
+} 
+
+ #Unkown12 
+{ 
+	 left: 115px; 
+	 top: 857px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 129px;
+	 z-index:19;
+} 
+
+ #Unkown13 
+{ 
+	 left: 263px; 
+	 top: 857px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 129px;
+	 z-index:20;
+} 
+
+ #Unkown14 
+{ 
+	 left: 406px; 
+	 top: 857px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 129px;
+	 z-index:21;
+} 
+
+ #Unkown15 
+{ 
+	 left: 551px; 
+	 top: 857px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 129px;
+	 z-index:22;
+} 
+
+ #Unkown16 
+{ 
+	 left: 115px; 
+	 top: 857px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 129px;
+	 z-index:23;
+} 
+
+ #Unkown17 
+{ 
+	 left: 263px; 
+	 top: 857px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 129px;
+	 z-index:24;
+} 
+
+ #Unkown18 
+{ 
+	 left: 406px; 
+	 top: 857px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 129px;
+	 z-index:25;
+} 
+
+ #Unkown19 
+{ 
+	 left: 551px; 
+	 top: 857px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 129px;
+	 z-index:26;
+} 
