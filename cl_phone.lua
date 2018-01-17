@@ -16,7 +16,7 @@ end)
 function Togglephone()
 	Citizen.Trace("PHONE")
 	phonemenuEnabled = not phonemenuEnabled
-	if ( menuEnabled ) then 
+	if ( phonemenuEnabled ) then 
 		SetNuiFocus( true, true ) 
 		SendNUIMessage({
 			showPhoneMenu = true 
